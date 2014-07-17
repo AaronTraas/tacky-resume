@@ -31,3 +31,5 @@ Do you want to make your résumé tacky? You're in luck! All you have to do is c
 Your resume will continue to print the professional version because of the magic of media queries. 
 
 Your mileage may vary with the CSS. You may have to customize it a bit. 
+
+Also, the fact that the audio cannot be stopped by any user action is a feature, not a bug.
