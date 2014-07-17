@@ -18,7 +18,7 @@ I also did not want to bulk up my non-tacky résumé with unnecessary resources,
 
 Do you want to make your résumé tacky? You're in luck! All you have to do is copy the `tacky` folder in this repo into your document root, and add this to your HTML body:
 
-```javascript
+```html
 <script>
     if( window.location.hash.substr(1) == 'tacky' ) {
         var tacky_script = document.createElement('script');
