@@ -5,7 +5,7 @@ html.tacky { background: #000 url('bg.gif'); }
 .tacky { color: #fff; font-family: 'Comic Sans MS', 'Marker Felt', cursive !important; }
     .tacky h1 { text-align: center; font-size: 80px; }
         .tacky h1:before,
-        .tacky h1:after { display: inline-block; width: 128px; height: 128px; background: url('fire2.gif'); content: ''; background-size: contain; }
+        .tacky h1:after { display: inline-block; width: 128px; height: 128px; background: url('fire.gif'); content: ''; background-size: contain; }
     .tacky nav { float: none; position: static; width: auto; text-align: center; }
         .tacky nav ul { width: auto; margin: 0; }
         .tacky nav li { float: none; display: inline; width: auto; margin: 0; }
